@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  TestCase
+
+  Created by viera on 8/3/16.
+  Copyright © 2016 vydeveloping. All rights reserved.
+*/
+"Car List" = "Car List";
+"model" = "Model:";
+"price" = "Price:";
+"Car" = "Car";
+"Price" = "Price";
+"engine" = "Engine";
+"transmission" = "Transmission";
+"condition" = "Condition";
+"Automatic" = "Automatic";
+"Manual" = "Manual";
+"new" = "New";
+"used" = "Used";
+"Done" = "Done";
+"Fill field" = "Fill field";
+"saved" = "Saved";
+"Description" = "Description";
+"No Internet" = "No Internet";

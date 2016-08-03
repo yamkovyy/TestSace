@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  TestCase
+
+  Created by viera on 8/3/16.
+  Copyright © 2016 vydeveloping. All rights reserved.
+*/
+"Car List" = "Список Машин";
+"model" = "Модель:";
+"price" = "Цена:";
+"Car" = "Автомобиль";
+"Price" = "Цена";
+"engine" = "Двигатель";
+"transmission" = "Транмиссия";
+"condition" = "Состояние";
+"Automatic" = "Автоматическая";
+"Manual" = "Механическая";
+"new" = "Новое";
+"used" = "Б/У";
+"Done" = "Готово";
+"Fill field" = "Заполните поле";
+"saved" = "Сохранено";
+"Description" = "Описание";
+"Offline mode" = "Оффлайн мод";
